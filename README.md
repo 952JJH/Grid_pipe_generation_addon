@@ -1,9 +1,9 @@
 # Grid_pipe_generation_addon for Blender
-Authored by Zhongyi, Zhu 
+Authored by Dr. Zhongyi, Zhu and Dr. Yi Wang.
 
 A Blender add-on to generate grid pipe line for 3d bioprinting, and the line can be export as a G-code file to control the SUNP BIOMAKER. 
 
-Grid pipe designed with this add-on are featured in our [paper](https://github.com/952JJH).
+Grid pipe designed with this add-on are featured in our [paper]().
 
 # Installation/Usage Instructions
 
