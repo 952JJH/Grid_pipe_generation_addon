@@ -10,7 +10,7 @@ Grid pipe designed with this add-on are featured in our [paper](https://github.c
 
 This git repository includes: The python file for the add-on, and explanatory pcitures.
 1. Download Blender. This add-on was originally developed and tested with [Blender 3.3](https://download.blender.org/release/)
-2. 
+2. Download this repository:
 
 
 
